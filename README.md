@@ -29,7 +29,7 @@ I built a machine learning application that estimates article readership based o
 
 ## Tech I work with
 
-**Python · SQL · pandas · NumPy · scikit-learn · LLMs · RAG · APIs · Jupyter**
+**Python · SQL · pandas · NumPy · scikit-learn · LLMs · RAG · OpenAI API · Jupyter**
 
 ## Find me elsewhere
 
